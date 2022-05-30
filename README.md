@@ -2,8 +2,10 @@
 *记录点团队国网组训练与部署的的所有训练权重。*
 
 ---
-![image](https://user-images.githubusercontent.com/77330637/170951971-56708248-8a38-4a77-8790-82d330cc5a7c.png)
 
+<center><img src="https://user-images.githubusercontent.com/77330637/170951971-56708248-8a38-4a77-8790-82d330cc5a7c.png" alt="pics" border="0"></center>
+
+<br>
 [TOC]
 
 
