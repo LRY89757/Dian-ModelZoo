@@ -8,10 +8,19 @@
 
 ### 检测
 
-* a...
-  * path
-  * usr time
-  * description
+* YOLOX-Nano
+  * /home/zwr/fenghuo_env/YOLOX/YOLOX_outputs/yolox_nano_reorganized_2/best_ckpt.pth
+  * zwr 2022.5.31
+  * + 使用该权重时要对输入图片做归一化处理，参考值：
+  
+      mean = [0.469, 0.481, 0.497]
+
+      std = [0.3, 0.307, 0.314]
+    
+      该参考值由全部train和val数据集里的120张图片计算得到，通道顺序依次为BGR。
+    + 验证集AP：31.33
+    + 权重大小：7.25 MB
+  
 
 * ...
 
